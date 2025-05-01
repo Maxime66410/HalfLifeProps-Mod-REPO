@@ -15,6 +15,7 @@
 /[Rr][Ee][Pp][Oo]/
 /[Pp]rojectSettings/
 /[Aa]ssets/
+!/[Aa]ssets/HalfLifeProps/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
