@@ -9,9 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1521619359, guid: 5f4d8f3104c174344a4288ce5b99aeb3, type: 3}
-  m_Name: USPGun
+  m_Script: {fileID: -1558716956, guid: 5f4d8f3104c174344a4288ce5b99aeb3, type: 3}
+  m_Name: ModItem Gun USP
   m_EditorClassIdentifier: 
-  _prefab: {fileID: 1306159536748319699, guid: 26f5f9cbc5aaeaa41853f1da62f987de, type: 3}
-  _valuablePresets:
-  - Valuables - Generic
+  _prefab: {fileID: 114307026151386308, guid: 26f5f9cbc5aaeaa41853f1da62f987de, type: 3}
