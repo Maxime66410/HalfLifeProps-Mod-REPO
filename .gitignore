@@ -17,6 +17,12 @@
 /[Aa]ssets/*
 !/[Aa]ssets/HalfLifeProps/
 
+/[Hh]alf[Ll]ife[Pp]rops[Ss]ource/bin/
+/[Hh]alf[Ll]ife[Pp]rops[Ss]ource/obj/
+/[Hh]alf[Ll]ife[Pp]rops[Ss]ource/packages/
+/[Hh]alf[Ll]ife[Pp]rops[Ss]ource/riderModule.iml
+/[Hh]alf[Ll]ife[Pp]rops[Ss]ource/_ReSharper.Caches/
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/

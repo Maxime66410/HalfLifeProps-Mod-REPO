@@ -1,0 +1,79 @@
+ManifestFileVersion: 0
+CRC: 4025767411
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: deebc1260a6f8b30c7204552188232f2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a840b95d892530eceb5a337500e5ac92
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 46bf3d0d002ee647bfc7ee62e1aa3fbe
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a8fc605d86e253c130d95b9eb74debf5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5ab8f401ece3e057ce511d64ce84d618, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9b92d0a529fd83f8597297eac8c68a10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff1df5370f7af74f11d71ad866fd0a19, type: 3}
+- Class: 114
+  Script: {fileID: -1549797422, guid: 5f4d8f3104c174344a4288ce5b99aeb3, type: 3}
+- Class: 114
+  Script: {fileID: 1521619359, guid: 5f4d8f3104c174344a4288ce5b99aeb3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72bb657e63785f44f51afd88d9713a59, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bb8c5cd85de75894096f8ffb1f03f295, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e261796444f50417597de35c4c97b0bd, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dc612d23e30bc425c249e877f0d02db, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 627a013663f820c93f7430687080fd1d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a15e1c781475aa01b4927595581aa78d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 328afba7744a086ddaa619a79c16685d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1690142c2a19245951fcb1f4197fef93, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 134
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: Sound
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+Assets:
+- Assets/HalfLifeProps/Assets/Valuables/ToolGun.asset
+- Assets/HalfLifeProps/HalfLifeProps.asset
+Dependencies: []
