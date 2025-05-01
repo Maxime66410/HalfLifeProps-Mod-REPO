@@ -14,7 +14,7 @@
 /[Pp]ackages/
 /[Rr][Ee][Pp][Oo]/
 /[Pp]rojectSettings/
-/[Aa]ssets/
+/[Aa]ssets/*
 !/[Aa]ssets/HalfLifeProps/
 
 # MemoryCaptures can get excessive in size.
