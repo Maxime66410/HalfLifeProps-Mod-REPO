@@ -1501,7 +1501,6 @@ GameObject:
   - component: {fileID: 7714553598163510373}
   - component: {fileID: 6674407260714724288}
   - component: {fileID: 8882423666313305866}
-  - component: {fileID: 4855431447119345030}
   m_Layer: 0
   m_Name: InfoPlayerStart
   m_TagString: Untagged
@@ -1575,28 +1574,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &4855431447119345030
-MeshCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6936749810952126175}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 5
-  m_Convex: 0
-  m_CookingOptions: 30
-  m_Mesh: {fileID: -3160669976049785503, guid: 97251ff05cd04f94eb02e03506c23c78, type: 3}
 --- !u!1 &9200201782234498549
 GameObject:
   m_ObjectHideFlags: 0
