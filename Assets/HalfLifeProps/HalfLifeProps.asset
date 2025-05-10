@@ -18,6 +18,6 @@ MonoBehaviour:
   _description: Add 24 Valuable and 2 Weapon from Half Life 2
   _websiteUrl: https://github.com/Maxime66410
   _dependencies:
-  - Zehs-REPOLib-2.0.1
+  - Zehs-REPOLib-2.1.0
   _icon: {fileID: 21300000, guid: ba3f7bbfe6670fc4eb841b652ea5c21f, type: 3}
   _readme: {fileID: 0}
