@@ -6,7 +6,12 @@ public class ManHackPhysics : MonoBehaviour
 {
     [HideInInspector]
     public Rigidbody rb;
-    
+
+    public ManHackPhysics(Rigidbody rb)
+    {
+        this.rb = rb;
+    }
+
     void Start()
     {
         rb = GetComponent<Rigidbody>();
