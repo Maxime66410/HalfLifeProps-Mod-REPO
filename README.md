@@ -1,3 +1,5 @@
+Add 24 Valuable and 2 Weapon from Half Life 2
+
 Dependance : 
 
 [https://github.com/Kesomannen/unity-repo-project-patcher](https://github.com/Kesomannen/unity-repo-project-patcher)
