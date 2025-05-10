@@ -314,8 +314,8 @@ MonoBehaviour:
   CurrentRooms: []
   Continuous: 1
   DebugCheckPosition: 1
-  CheckPosition: {x: 0.02678454, y: 0.99549115, z: 0.5896487}
-  currentSize: {x: 2.790316, y: 1.9105985, z: 1.155364}
+  CheckPosition: {x: -0.0014990866, y: 1.0598353, z: -0.027197003}
+  currentSize: {x: 0.8481758, y: 2.1669729, z: 0.51866513}
 --- !u!114 &114878199609302107
 MonoBehaviour:
   m_ObjectHideFlags: 0
