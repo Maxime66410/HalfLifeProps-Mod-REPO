@@ -15,7 +15,7 @@ MonoBehaviour:
   _name: HalfLifeProps
   _author: Maxime66410
   _version: 1.0.0
-  _description: 
+  _description: Add 24 Valuable and 2 Weapon from Half Life 2
   _websiteUrl: https://github.com/Maxime66410
   _dependencies:
   - Zehs-REPOLib-2.0.1
